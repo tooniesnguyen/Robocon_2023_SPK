@@ -30,7 +30,7 @@
 - Theo trên ảnh, có thể bỏ 2 chân `EN+` và `EN-` của Driver
 - Còn `Dir-` -> `PA4`; `Pul-` -> `PA5`
 
-# Code
+## Code [[Tham khảo tại đây](../STEP_MOTOR)]:
 - Đầu tiên kích chân `DIR` để nó đảo chiều
 - Kích 1-0-1-0 để động cơ step quay
 - Delay càng ngắn động cơ quay càng nhanh
