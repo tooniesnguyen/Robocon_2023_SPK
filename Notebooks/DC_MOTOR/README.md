@@ -34,7 +34,7 @@
 | PB1  | Đọc ngắt Encoder [2]                  |
 | PB10 | Đọc ngắt Encoder [2]                  |
 #### Thứ tự nối chân
-- Vd: PA2 -> RPWM, M+ -> M1, 3.3V + R_En + L_En + VCC thành một, ...
+- Ví dụ: PA2 -> RPWM, M+ -> M1, 3.3V + R_En + L_En + VCC thành một, ...
 
 | Tổ ong 12V | STM32 |      BTS      | Động cơ DC |
 |:----------:|:-----:|:-------------:|:----------:|
