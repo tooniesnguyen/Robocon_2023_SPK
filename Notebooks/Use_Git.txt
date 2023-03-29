@@ -1,0 +1,18 @@
+### Push git
+- Step 1: Di chuyển đến vị trí folder
+            |--> Cách 1: cd 'địa chỉ folder'
+            |--> Cách 2: Chuột trái vào folder => 'Git Bash Here'
+            
+            
+- Step 2: git init
+- Step 3: git add [Tên file muốn add]
+            | Add tất cả file --> "git add ."
+- Step 4: git commit -m "ghi cmt"
+- Step 5: git remote add origin [đường dẫn web .git]
+            | Exp: git remote add origin https://github.com/IAmToonies/abc.git
+            
+- Step 6: git push -u origin master
+
+
+### Thêm file vào git
+- Tương tự step 3,4 --> gõ: git push
