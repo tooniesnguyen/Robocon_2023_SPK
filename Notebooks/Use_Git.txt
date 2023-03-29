@@ -1,5 +1,13 @@
+### Video tham khảo: https://youtu.be/1JuYQgpbrW0
+
+
+### Down git bash: https://git-scm.com/downloads
+### Đăng ký hoặc đăng nhập github: https://github.com/
+- Nhớ địa chỉ email, tên tài khoản, mật khẩu. Khi push lần đầu sẽ bắt đăng nhập trên cmd
+- Khi tạo xong nhấn vào giấu `+` (góc phải trên cùng kế avatar) -> New repository -> Đặt tên repos -> Create
+- Thực hiện push lên git
 ### Push git
-- Step 1: Di chuyển đến vị trí folder
+- Step 1: Di chuyển đến vị trí folder muốn push lên github
             |--> Cách 1: cd 'địa chỉ folder'
             |--> Cách 2: Chuột trái vào folder => 'Git Bash Here'
             
