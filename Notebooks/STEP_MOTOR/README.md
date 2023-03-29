@@ -47,7 +47,7 @@
     /* USER CODE END WHILE */
 ```
 
-- Để nó quay số vòng mình muốn có thể bỏ vào vòng lặp `for` với n là vị trí mình muốn nó dừng quay:
+- Để nó quay số vòng mình muốn có thể bỏ vào vòng lặp `for` với `n` là vị trí mình muốn nó dừng quay:
 ```
 for(int x = 0; x < n; x++) {
 	HAL_GPIO_WritePin(STEP_GPIO_Port, STEP_Pin, 1);
