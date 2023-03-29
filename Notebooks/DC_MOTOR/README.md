@@ -49,7 +49,7 @@
 |     V+     |       |       B+      |            |
 |     V-     |       |       B-      |            |
 
-## Code:
+## Code [[Tham khảo tại đây](../DC_MOTOR)]:
 - Thêm thư viện stdlib để tính
 ```
 /* USER CODE BEGIN Includes */
